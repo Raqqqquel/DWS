@@ -1,2 +1,2 @@
 # DWS
-Documentos de asignatura DWS
+Ejercicios de asignatura DWS
